@@ -67,7 +67,7 @@
 <br/>
 
 <p >
-<span style="display: flex; justify-content: center">
+<span display="flex">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anhkhoa2001&" alt="anhkhoa2001" />
 </span>
 <br/>
