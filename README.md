@@ -66,13 +66,16 @@
 <hr/>
 <br/>
 
-<p style="display: flex, flex-direction: column, justify-content: center">
-<span>
+<p >
+<span style="display: flex, justify-content: center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anhkhoa2001&" alt="anhkhoa2001" />
 </span>
 <br/>
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anhkhoa2001&show_icons=true&locale=en&layout=compact" alt="anhkhoa2001" /></p>
+<span style="display: flex, justify-content: center">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anhkhoa2001&show_icons=true&locale=en&layout=compact" alt="anhkhoa2001" />
+</span>
+</p>
 <br/>
 <br/>
 <br/>
