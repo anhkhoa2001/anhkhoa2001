@@ -84,6 +84,13 @@
 <br/>
 <hr/>
 <br/>
+<div>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anhkhoa2001&" alt="anhkhoa2001" /></p>
+</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anhkhoa2001&show_icons=true&locale=en&layout=compact" alt="anhkhoa2001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anhkhoa2001&show_icons=true&locale=en" alt="anhkhoa2001" /></p>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anhkhoa2001&bg_color=030203&color=c9c9c9&line=dd40d3&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anhkhoa2001&label=Profile%20views&color=0e75b6&style=flat" alt="anhkhoa2001" /> </p>
