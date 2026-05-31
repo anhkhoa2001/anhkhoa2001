@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/khoa-%C4%91%C3%A0m-tam-83a55b202/" target="_blank">
+ <a href="https://www.linkedin.com/in/khoa-dam-tam-83a55b202/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
  <a href="https://www.facebook.com/profile.php?id=100024672424192" target="_blank">
